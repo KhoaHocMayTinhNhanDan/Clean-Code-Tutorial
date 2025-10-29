@@ -1,0 +1,31 @@
+# Logs
+*.log
+
+# Build outputs
+/build/
+
+# Environment variables
+.env
+
+# Data and database (sensitive/large files)
+data/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+*.py.class
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
